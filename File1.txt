@@ -1,3 +1,7 @@
 Hello World
 
-Welcome to git. hi
+Welcome to git. 
+
+feature 1: login
+
+feature 2: logout
