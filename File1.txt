@@ -2,9 +2,9 @@ Hello World
 
 Welcome to git. 
 
-feature 1- login nfghgfh
+feature 1-> login nfghgfh
 
-feature 2- logout
+feature 2-> logout
 
 bug1- fixed
 
