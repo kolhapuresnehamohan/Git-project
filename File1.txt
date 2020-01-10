@@ -2,8 +2,10 @@ Hello World
 
 Welcome to git. 
 
-feature 1: login
+feature 1- login
 
-feature 2: logout
+feature 2- logout
 
-bug 1: fixed
+bug1- fixed
+
+Bug2- fixed
