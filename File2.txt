@@ -2,8 +2,8 @@ File to created for CR1
 
 File 2 is modified for feature. work is in progress.
 
-File updated for push repository.
+chaneg 2 ->File updated for push repository.
 
-File to update
+change 3 ->Test for rebate from local master
 
-change 3 -> to check for the change for the remote master 
+change -> File update	
